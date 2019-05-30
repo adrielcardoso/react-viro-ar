@@ -1,0 +1,15 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Pes_Fava
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.129412 0.129412
+Ks 0.330000 0.330000 0.330000
+
+newmtl _auto_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.168627 0.286275
+Ks 0.330000 0.330000 0.330000
+map_Kd Poltrona+Fava/_auto_14.jpg
+
